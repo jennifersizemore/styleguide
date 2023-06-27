@@ -1,0 +1,130 @@
+.header {
+  font-family: Montserrat;
+  text-align: center;
+  color: #c5a3d9;
+  font-size: 50px;
+}
+
+.h2 {
+  font-family: Montserrat;
+  font-size: 40px;
+  color: #4f1a6e;
+  text-decoration: bold;
+}
+
+.blue {
+  font-family: Montserrat;
+  background-color: #9fcae3;
+  color: white;
+  padding: 25px;
+  border-radius: 20px;
+  display:inline-block;
+}
+
+.green {
+  font-family: Montserrat;
+  background-color: #a3d9b7;
+  color:white;
+  text-align: center;
+  border-radius: 20px;
+  padding: 25px;
+  display: inline-block;
+}
+
+.pink {
+  font-family: Montserrat;
+  background-color: #f5b7f7;
+  color: white;
+  text-align: right;
+  border-radius: 20px;
+  padding:25px;
+  display: inline-block;
+}
+
+.purple {
+  font-family: Montserrat;
+  background-color: #d9a2f5;
+  color: white;
+  border-radius: 20px;
+  padding:25px;
+  display: inline-block;
+}
+
+.orange {
+  font-family: Montserrat;
+  background-color: #f7b76d;
+  color: white;
+  border-radius: 20px;
+  padding:25px;
+  display: inline-block;
+}
+
+.yellow {
+  font-family: Montserrat;
+  background-color: #f7f7a1;
+  color: grey;
+  border-radius: 20px;
+  padding:25px;
+  display: inline-block;
+}
+
+.blue:hover{
+  background-color: #2734a8;
+}
+
+.green:hover{
+  background-color: #3b8a54;
+}
+
+.pink:hover{
+  background-color: #cc64ca;
+}
+
+.purple:hover{
+  background-color: #9f71bf;
+}
+
+.orange:hover{
+  background-color: #c47f29;
+}
+
+.yellow:hover{
+  background-color: #fae950;
+}
+
+.Mon{
+  font-family: Montserrat;
+}
+
+.Mon p{
+  text-decoration:bold;
+}
+
+.Raleway{
+  font-family: Raleway;
+}
+
+.more{
+  font-family: Montserrat;
+}
+
+a:hover{
+  text-decoration: none;
+  color: blue;
+}
+
+.main{
+  font-family: Montserrat;
+}
+
+.sub{
+  font-family: Montserrat;
+}
+
+.type{
+  font-family: Montserrat;
+}
+
+.p{
+  font-family: Montserrat;
+}
